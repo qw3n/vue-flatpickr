@@ -19,7 +19,6 @@ export default {
       default: () => { return {} }
     },
     value: {
-      type: String,
       default: ''
     }
   },
